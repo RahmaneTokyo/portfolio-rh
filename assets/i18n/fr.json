@@ -1,0 +1,37 @@
+{
+  "home": {
+    "job": "Développeur Web/Mobile",
+    "about": "A Propos",
+    "resume": "Parcours",
+    "work": "Oeuvres",
+    "mobile": "Mobile",
+    "personal": "Personnel",
+    "mail": "Email",
+    "address": "Adresse",
+    "download": "Télécharger CV"
+  },
+  "about": {
+    "profile": "Je suis un développeur Full-stack de Dakar, Sénégal, travaillant dans le développement web. J'aime transformer des problèmes complexes en solutions simples et utiles. Mon objectif est de fournir des programmes performants et utiles afin de rendre le client aussi confortable que possible lors de l'utilisation de son application.",
+    "do": "Ce Que Je Fais",
+    "webdev": "Développement Web",
+    "mobdev": "Développement Mobile",
+    "beat": "Beat Making",
+    "game": "Gaming"
+  },
+  "resume": {
+    "bfem": "BFEM",
+    "bac": "Baccalauréat",
+    "engine": "Génie Informatique",
+    "webMobDev": "Développement Web/Mobile",
+    "juniorDev": "Développeur Web/Mobile Junior",
+    "full": "Développeur Full-Stack",
+    "remote": "A Distance",
+    "jan": "Janvier",
+    "mar": "Mars",
+    "avr": "Avril",
+    "may": "Mai",
+    "sept": "Septembre",
+    "nov": "Novembre",
+    "skill": "Compétences"
+  }
+}
