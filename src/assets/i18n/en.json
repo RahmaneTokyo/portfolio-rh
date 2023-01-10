@@ -1,0 +1,37 @@
+{
+  "home": {
+    "job": "Web/Mobile Developer",
+    "about": "About",
+    "resume": "Resume",
+    "work": "Works",
+    "mobile": "Mobile",
+    "personal": "Personal",
+    "mail": "Email",
+    "address": "Address",
+    "download": "Download CV"
+  },
+  "about": {
+    "profile": "I am a full-stack developer from Dakar, Senegal, working in web development. I like to turn complex problems into simple and useful solutions. My goal is to provide powerful and useful programs in order to make the customer as comfortable as possible when using his application.",
+    "do": "What I Do",
+    "webdev": "Web Development",
+    "mobdev": "Mobile Development",
+    "beat": "Beat Making",
+    "game": "Gaming"
+  },
+  "resume": {
+    "bfem": "Secondary School Diploma",
+    "bac": "Baccalaureate",
+    "engine": "Computer Engineering",
+    "webMobDev": "Web/Mobile Development",
+    "juniorDev": "Junior Web/Mobile Developer",
+    "full": "Full-Stack Developer",
+    "remote": "Remote",
+    "jan": "January",
+    "mar": "March",
+    "avr": "April",
+    "may": "May",
+    "sept": "September",
+    "nov": "November",
+    "skill": "Skills"
+  }
+}
