@@ -83,4 +83,6 @@ export class HomeLandingPageComponent implements OnInit{
       console.log(this.lang);
     }
   }
+
+  // email validation regex function angular
 }
